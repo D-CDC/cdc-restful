@@ -1,0 +1,6 @@
+[app]
+    http_port = 9090
+    key_store_dir = "./keystore"
+    # ether_net_url = "http://localhost:7545"
+    # Ropsten 测试网络
+    ether_net_url = "http://138.201.255.176:8545"
